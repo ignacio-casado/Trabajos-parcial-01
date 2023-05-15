@@ -6,13 +6,7 @@ Escriba una aplicación que encripte ciertas palabras del texto ingresado por el
 usuario para esto el programa tiene que cumplir ciertas condiciones:
  El usuario tiene que escribir al menos 15 caracteres.
  La respuesta siempre estará toda en mayúsculas.
- La Letra “E”, se la reemplaza por “R”
- La Letra “A”, se la reemplaza por “S”
- La Letra “O”, se la reemplaza por “N”
- La Letra “S”, se la reemplaza por “A”
- La Letra “R”, se la reemplaza por “E”
- La Letra “N”, se la reemplaza por “O”
- En cada espacio entre palabras se agrega el texto “-&gt; “
+ Cambio de caracteres.
  Al final agrega “ la fecha y hora” al texto ingresado
 
 
